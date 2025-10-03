@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MBOLEL</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on MBOLEL</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Oct 2025 11:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Stocks Surge as Big Tech and Governments Bet on the Future</title>
+      <link>http://localhost:1313/technology/quantum-stocks-surge/</link>
+      <pubDate>Fri, 03 Oct 2025 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/technology/quantum-stocks-surge/</guid>
+      <description>Rigetti, D-Wave, and other quantum computing companies posted massive gains this week, fueled by big tech investments, government funding, and rising demand for next-gen computing.</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/world/first-post/</link>
+      <pubDate>Thu, 18 Sep 2025 23:47:02 +0500</pubDate>
+      <guid>http://localhost:1313/world/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/science/first-post/</link>
+      <pubDate>Thu, 18 Sep 2025 23:46:50 +0500</pubDate>
+      <guid>http://localhost:1313/science/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/health/first-post/</link>
+      <pubDate>Thu, 18 Sep 2025 23:46:28 +0500</pubDate>
+      <guid>http://localhost:1313/health/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/sports/first-post/</link>
+      <pubDate>Thu, 18 Sep 2025 23:46:02 +0500</pubDate>
+      <guid>http://localhost:1313/sports/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/entertainment/first-post/</link>
+      <pubDate>Thu, 18 Sep 2025 23:45:47 +0500</pubDate>
+      <guid>http://localhost:1313/entertainment/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/business/first-post/</link>
+      <pubDate>Thu, 18 Sep 2025 23:45:30 +0500</pubDate>
+      <guid>http://localhost:1313/business/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gadgets</title>
+      <link>http://localhost:1313/technology/gadgets/</link>
+      <pubDate>Thu, 18 Sep 2025 23:42:40 +0500</pubDate>
+      <guid>http://localhost:1313/technology/gadgets/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

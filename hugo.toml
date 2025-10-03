@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'MBOLEL'
+Theme = "PaperMod"
+
+
+
+[[menu.main]]
+name = "Technology"
+url = "/technology/"
+weight = 1
+
+[[menu.main]]
+name = "Business"
+url = "/business/"
+weight = 2
+
+[[menu.main]]
+name = "Entertainment"
+url = "/entertainment/"
+weight = 3
+
+[[menu.main]]
+name = "Sports"
+url = "/sports/"
+weight = 4
+
+[[menu.main]]
+name = "Health"
+url = "/health/"
+weight = 5
+
+[[menu.main]]
+name = "Science"
+url = "/science/"
+weight = 6
+
+[[menu.main]]
+name = "World"
+url = "/world/"
+weight = 7
+
